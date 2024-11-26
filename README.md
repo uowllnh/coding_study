@@ -58,6 +58,7 @@
 <br>
 <br>
 
+
 <h3> 🌈 Convention Rule </h3>
 
 Issue | `[플랫폼] 문제이름`
@@ -79,4 +80,4 @@ ex) Update README.md
 ---
 <h3> 📂 Directory </h3>
 
-해당 Convention Rule은 [Da-in님의 Repo]([https://github.com/RecoRecoNi/Algorithm-Study?tab=readme-ov-file](https://github.com/da-in/algorithm-study)) 를 참고하였습니다.
+해당 Convention Rule은 [Da-in님의 Repo](https://github.com/da-in/algorithm-study) 를 참고하였습니다.
