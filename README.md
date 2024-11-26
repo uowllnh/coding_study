@@ -62,14 +62,14 @@
 <h3> 🌈 Convention Rule </h3>
 
 Issue | `[플랫폼] 문제이름`
-ex) [Programmers - 고득점 Kit] 포켓몬
+<br>ex) [Programmers - 고득점 Kit] 포켓몬
 
 PR | `[스터디 날짜] 이름 #이슈번호`
-ex) [2023-01-25] dain
+<br>ex) [2023-01-25] dain
 
 Commit | `커밋내용 문제이름 파일명`
-ex) Create 포켓몬 dain.py
-ex) Update README.md
+<br>ex) Create 포켓몬 dain.py
+<br>ex) Update README.md
 
 ---
 <h3> 📝커리큘럼 </h3>
