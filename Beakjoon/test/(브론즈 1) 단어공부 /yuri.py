@@ -7,6 +7,7 @@ for alpha in a:
 max = 0
 max_i = 0
 
+
 for i in set(list):
  if list.count(i) > max_i:
     max, max_i = i, list.count(i)
