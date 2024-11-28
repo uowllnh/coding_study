@@ -1,22 +1,16 @@
-# 백준 1157번 파이썬 문제풀이
-# 문자열을 입력받고 해당 문자열에서 가장 많이 사용된 문자를 도출하여 아래와 같이 출력.
-# 단수개일 경우 해당 문자를 반환, 복수개일 경우 "?"를 출력하도록 설계
-# 문자의 대소문자를 구분하지 않음. 
+# 온라인 저지에 가입한 사람들의 나이와 이름이 가입한 순서대로 주어진다. 
+# 이때, 회원들을 나이가 증가하는 순으로, 나이가 같으면 먼저 가입한 사람이 앞에 오는 순서로 정렬하는 프로그램을 작성하시오.
+# 첫째 줄에 온라인 저지 회원의 수 N이 주어진다. (1 ≤ N ≤ 100,000)
+import sys
+# 첫째 줄로 입력받는 회원 수를 변수에 저장 
+num_member = sys.stdin.readline()
+# 정렬할 user 리스트를 정의
+user = []
+# 회원 수만큼 반복되는 for 문을 통해 이중 리스트로 user 안에 저장
+for i in range(num_member):
+    age, name = input().split()
+    user.append([int(age),name])
 
-# upper나 반대 함수 사용하여 대소문자 중 하나로 통일.
-word = input().upper()
-# set함수를 이용해서 word에서 중복된 문자열을 제거하고 리스트로 변환.
-word_lst = list(set(word)) 
-# 빈 리스트를 하나 생성하고 리스트에 문자열의 index와 일치하게끔 하여 문자별 사용 빈도수를 저장.
-num_lst = []
-
-# word_list 안의 i(문자)별로 word 안에서 count하여 num에 저장
-for i in word_list:
-    num = word.count(i)
-    num_lst.append(num)
-
-# num_list 내의 max 값이 복수인지 아닌지 체크
-if num_lst.count(max(num_lst)) >= 2:
-    print("?")
-else :
-    print(word_lst[num_lst.index(max(num_lst))])
+# for 문을 수행하면 user 리스트 자동 정렬, 그 후 print 문으로 출력
+for i in sorted(user,key=lambda x : x[0]):
+    print(i[0],i[1])
