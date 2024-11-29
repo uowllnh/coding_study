@@ -73,8 +73,9 @@
 
 ---
 <h3> 📝커리큘럼 </h3>
-- 테스트 후 작성 예정
-<br>
+
+DAY 1 |  [전구](https://www.acmicpc.net/problem/21918), [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+DAY 2 |  [하얀칸](https://www.acmicpc.net/problem/1100), [운동](https://www.acmicpc.net/problem/1173)
 <br>
 
 ---
