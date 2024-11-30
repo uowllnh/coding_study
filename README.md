@@ -54,8 +54,17 @@
 <br>
 
 <h3> 📢 스터디 규칙 </h3>
-- 추후 추가 예정
+
+- 돌아가면서 선정된 문제로 [ISSUE](https://github.com/uowllnh/coding_study/issues) 등록하기
+- 커리큘럼에 따라 ⭐️`문제 밀리지 않기`⭐️
+- 1문제 당 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp,
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 풀이 1개씩 제출
+- `스터디 전날` 일주일 동안 풀었던 문제 중 투표로 `어려웠던 4문제 선정 후`, `스터디 당일 각자 풀이 공유`
+- 매주 순서에 따라 `문제 1개씩` 선정하여 `실시간 문제 풀이 진행`
+
+
 <br>
+
 <br>
 
 
@@ -73,8 +82,61 @@
 
 ---
 <h3> 📝커리큘럼 </h3>
-- 테스트 후 작성 예정
+
+### Warming Up
+
+- 백준 문제 브론즈 ①,② ~실버 ⑤ 문제 중 정답률 60% 미만으로 선정
 <br>
+<body>
+<table style = "table-layout: auto; width: 50%; table-layout: fixed;">
+    <tr>
+      <th align="center" valign="middle">금 / 토</th>
+      <th align="center" valign="middle">일 / 월</th>
+      <th align="center" valign="middle">화 / 수</th>
+    </tr>
+  <tr>
+      <td align="center" valign="middle">브론즈 ①</td>
+      <td align="center" valign="middle">브론즈 ②</td>
+      <td align="center" valign="middle">실버 ⑤</td>
+    </tr>
+  </table>
+</body>
+
+<br>
+
+
+  
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th align="center" valign="middle">DAY</th>
+                <th align="center" valign="middle">이름</th>
+                <th align="center" valign="middle">이슈 번호</th>
+            </tr>
+        </thead>
+        <tbody align="center" valign="middle">
+             <tr><td>Day1</td><td><a href="https://www.acmicpc.net/problem/21918" target="_blank">전구<br> <a href="https://www.acmicpc.net/problem/2309" target="_blank">일곱 난쟁이</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/1">#01
+ <br> <a href="https://github.com/uowllnh/coding_study/issues/2">#02</a></a></td></tr>
+            <tr><td>Day2</td><td><a href="https://www.acmicpc.net/problem/1100" target="_blank">하얀 칸<br><a href="https://www.acmicpc.net/problem/1173" target="_blank"> 운동 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/3">#03
+ <br> <a href="https://github.com/uowllnh/coding_study/issues/4">#04</a></a></td></tr>
+            <tr><td>Day3</td><td><a href="https://www.acmicpc.net/problem/1333" target="_blank"> 부재중 전화 <br><a href="https://www.acmicpc.net/problem/2775" target="_blank"> 부녀회장이 될테야 </td><td></td></tr>
+            <tr><td>Day4</td><td><a href="https://www.acmicpc.net/problem/2896" target="_blank"> 무알콜 칵테일 <br><a href="https://www.acmicpc.net/problem/2999" target="_blank"> 비밀 이메일 </td><td></td></tr>
+            <tr><td>Day5</td><td><a href="https://www.acmicpc.net/problem/1010" target="_blank"> 다리 놓기<br><a href="https://www.acmicpc.net/problem/1996" target="_blank"> 지뢰 찾기</td><td></td></tr>
+            <tr><td>Day6</td><td><a href="https://www.acmicpc.net/problem/2097" target="_blank"> 조약돌<br><a href="https://www.acmicpc.net/problem/2508" target="_blank"> 사탕 박사 고창영</td><td></td></tr>
+            <tr><td>Day7</td><td><a href="https://www.acmicpc.net/problem/1673" target="_blank"> 치킨 쿠폰<br><a href="https://www.acmicpc.net/problem/2386" target="_blank"> 도비의 영어공부</td><td></td></tr>
+            <tr><td>Day8</td><td><a href="https://www.acmicpc.net/problem/3595" target="_blank"> 맥주 냉장고<br><a href="https://www.acmicpc.net/problem/5622" target="_blank"> 다이얼</td><td></td></tr>
+            <tr><td>Day9</td><td><a href="https://www.acmicpc.net/problem/9229" target="_blank"> 단어 사다리<br><a href="https://www.acmicpc.net/problem/10041" target="_blank"> 관광</td><td></td></tr>
+            <tr><td>Day10</td><td><a href="https://www.acmicpc.net/problem/16968" target="_blank"> 차량 번호판1<br><a href="https://www.acmicpc.net/problem/17176" target="_blank"> 암호 해독기</td><td></td></tr>
+            <tr><td>Day11</td><td><a href="https://www.acmicpc.net/problem/1316" target="_blank"> 그룹 단어 체커<br><a href="https://www.acmicpc.net/problem/1268" target="_blank"> 임시 반장 정하기</td><td></td></tr>
+            <tr><td>Day12</td><td><a href="https://www.acmicpc.net/problem/2891" target="_blank"> 카약과 강풍<br><a href="https://www.acmicpc.net/problem/2635" target="_blank"> 수 이어가기</td><td></td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+<br>
+
 <br>
 
 ---
