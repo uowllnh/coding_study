@@ -57,7 +57,7 @@
 
 - 돌아가면서 선정된 문제로 [ISSUE](https://github.com/uowllnh/coding_study/issues) 등록하기
 - 커리큘럼에 따라 ⭐️`문제 밀리지 않기`⭐️
-- 1문제 당 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp,
+- 1문제 당 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> ,
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 풀이 1개씩 제출
 - `스터디 전날` 일주일 동안 풀었던 문제 중 투표로 `어려웠던 4문제 선정 후`, `스터디 당일 각자 풀이 공유`
 - 매주 순서에 따라 `문제 1개씩` 선정하여 `실시간 문제 풀이 진행`
