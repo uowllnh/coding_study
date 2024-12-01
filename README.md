@@ -120,7 +120,8 @@
  <br> <a href="https://github.com/uowllnh/coding_study/issues/2">#02</a></a></td></tr>
             <tr><td>Day2</td><td><a href="https://www.acmicpc.net/problem/1100" target="_blank">하얀 칸<br><a href="https://www.acmicpc.net/problem/1173" target="_blank"> 운동 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/3">#03
  <br> <a href="https://github.com/uowllnh/coding_study/issues/4">#04</a></a></td></tr>
-            <tr><td>Day3</td><td><a href="https://www.acmicpc.net/problem/1333" target="_blank"> 부재중 전화 <br><a href="https://www.acmicpc.net/problem/2775" target="_blank"> 부녀회장이 될테야 </td><td>하연</td></tr>
+            <tr><td>Day3</td><td><a href="https://www.acmicpc.net/problem/1333" target="_blank"> 부재중 전화 <br><a href="https://www.acmicpc.net/problem/2775" target="_blank"> 부녀회장이 될테야 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/5">#05
+ <br> <a href="https://github.com/uowllnh/coding_study/issues/6">#06</a></a></td></tr>
             <tr><td>Day4</td><td><a href="https://www.acmicpc.net/problem/2896" target="_blank"> 무알콜 칵테일 <br><a href="https://www.acmicpc.net/problem/2999" target="_blank"> 비밀 이메일 </td><td>현준</td></tr>
             <tr><td>Day5</td><td><a href="https://www.acmicpc.net/problem/1010" target="_blank"> 다리 놓기<br><a href="https://www.acmicpc.net/problem/1996" target="_blank"> 지뢰 찾기</td><td>정언</td></tr>
             <tr><td>Day6</td><td><a href="https://www.acmicpc.net/problem/2097" target="_blank"> 조약돌<br><a href="https://www.acmicpc.net/problem/2508" target="_blank"> 사탕 박사 고창영</td><td>유리</td></tr>
