@@ -124,7 +124,8 @@
  <br> <a href="https://github.com/uowllnh/coding_study/issues/6">#06</a></a></td></tr>
             <tr><td>Day4</td><td><a href="https://www.acmicpc.net/problem/2896" target="_blank"> 무알콜 칵테일 <br><a href="https://www.acmicpc.net/problem/2999" target="_blank"> 비밀 이메일 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/8">#08
  <br> <a href="https://github.com/uowllnh/coding_study/issues/9">#09</a></a></td></tr>
-            <tr><td>Day5</td><td><a href="https://www.acmicpc.net/problem/1010" target="_blank"> 다리 놓기<br><a href="https://www.acmicpc.net/problem/1996" target="_blank"> 지뢰 찾기</td><td>정언</td></tr>
+            <tr><td>Day5</td><td><a href="https://www.acmicpc.net/problem/1010" target="_blank"> 다리 놓기<br><a href="https://www.acmicpc.net/problem/1996" target="_blank"> 지뢰 찾기 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/10">#10
+  <br> <a href="https://github.com/uowllnh/coding_study/issues/11">#11</a></a></td></tr>
             <tr><td>Day6</td><td><a href="https://www.acmicpc.net/problem/2097" target="_blank"> 조약돌<br><a href="https://www.acmicpc.net/problem/2508" target="_blank"> 사탕 박사 고창영</td><td>유리</td></tr>
             <tr><td>Day7</td><td><a href="https://www.acmicpc.net/problem/1673" target="_blank"> 치킨 쿠폰<br><a href="https://www.acmicpc.net/problem/2386" target="_blank"> 도비의 영어공부</td><td>하연</td></tr>
             <tr><td>Day8</td><td><a href="https://www.acmicpc.net/problem/3595" target="_blank"> 맥주 냉장고<br><a href="https://www.acmicpc.net/problem/5622" target="_blank"> 다이얼</td><td>현준</td></tr>
