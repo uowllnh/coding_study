@@ -128,7 +128,8 @@
   <br> <a href="https://github.com/uowllnh/coding_study/issues/11">#11</a></a></td></tr>
             <tr><td>Day6</td><td><a href="https://www.acmicpc.net/problem/2097" target="_blank"> 조약돌<br><a href="https://www.acmicpc.net/problem/2508" target="_blank"> 사탕 박사 고창영</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/13">#13
   <br> <a href="https://github.com/uowllnh/coding_study/issues/14">#14</a></a></td></tr>
-            <tr><td>Day7</td><td><a href="https://www.acmicpc.net/problem/1673" target="_blank"> 치킨 쿠폰<br><a href="https://www.acmicpc.net/problem/2386" target="_blank"> 도비의 영어공부</td><td>하연</td></tr>
+            <tr><td>Day7</td><td><a href="https://www.acmicpc.net/problem/1673" target="_blank"> 치킨 쿠폰<br><a href="https://www.acmicpc.net/problem/2386" target="_blank"> 도비의 영어공부</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/48">#10
+  <br> <a href="https://github.com/uowllnh/coding_study/issues/49">#11</a></a></td></tr>
             <tr><td>Day8</td><td><a href="https://www.acmicpc.net/problem/3595" target="_blank"> 맥주 냉장고<br><a href="https://www.acmicpc.net/problem/5622" target="_blank"> 다이얼</td><td>현준</td></tr>
             <tr><td>Day9</td><td><a href="https://www.acmicpc.net/problem/9229" target="_blank"> 단어 사다리<br><a href="https://www.acmicpc.net/problem/10041" target="_blank"> 관광</td><td>정언</td></tr>
             <tr><td>Day10</td><td><a href="https://www.acmicpc.net/problem/16968" target="_blank"> 차량 번호판1<br><a href="https://www.acmicpc.net/problem/17176" target="_blank"> 암호 해독기</td><td>유리</td></tr>
