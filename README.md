@@ -134,7 +134,8 @@
   <br> <a href="https://github.com/uowllnh/coding_study/issues/61">#61</a></a></td></tr>
             <tr><td>Day9</td><td><a href="https://www.acmicpc.net/problem/9229" target="_blank"> 단어 사다리<br><a href="https://www.acmicpc.net/problem/10041" target="_blank"> 관광</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/63">#63
   <br> <a href="https://github.com/uowllnh/coding_study/issues/64">#64</a></a></td></tr>
-            <tr><td>Day10</td><td><a href="https://www.acmicpc.net/problem/16968" target="_blank"> 차량 번호판1<br><a href="https://www.acmicpc.net/problem/17176" target="_blank"> 암호 해독기</td><td>유리</td></tr>
+            <tr><td>Day10</td><td><a href="https://www.acmicpc.net/problem/16968" target="_blank"> 차량 번호판1<br><a href="https://www.acmicpc.net/problem/17176" target="_blank"> 암호 해독기</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/67">#67
+  <br> <a href="https://github.com/uowllnh/coding_study/issues/68">#68</a></a></td></tr>
             <tr><td>Day11</td><td><a href="https://www.acmicpc.net/problem/1316" target="_blank"> 그룹 단어 체커<br><a href="https://www.acmicpc.net/problem/1268" target="_blank"> 임시 반장 정하기</td><td>하연</td></tr>
             <tr><td>Day12</td><td><a href="https://www.acmicpc.net/problem/2891" target="_blank"> 카약과 강풍<br><a href="https://www.acmicpc.net/problem/2635" target="_blank"> 수 이어가기</td><td>현준</td></tr>
         </tbody>
