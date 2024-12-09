@@ -1,0 +1,23 @@
+name: Allow README Direct Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  bypass_protection:
+    if: github.event.commits.*.modified contains 'README.md'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Commit README changes directly
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git checkout main
+          git add README.md
+          git commit -m "Direct update to README.md"
+          git push origin main
