@@ -1,3 +1,4 @@
 day = int(input("Enter the number of days: ")) 
 for a in range(1, day + 1):
-    print("- Day" + str(a) + " |") 
+    print("|   **Day" + str(a) + "**   |      [문제 이름](주소 복붙)     |    이슈번호    |") 
+68
