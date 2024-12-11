@@ -1,12 +1,8 @@
 <h1>🖥️&nbsp 코딩테스트 스터디</h1>
 <br>
   
-<h3> 📌 참여 멤버 </h3>
+### 📌 참여 멤버
 <p>
-<a href="https://github.com/uowllnh">
-    <img src="https://github.com/uowllnh.png" width="100" alt="uowllnh's profile picture" />
-</a>
-
 <a href="https://github.com/uo2hy2">
     <img src="https://github.com/uo2hy2.png" width="100" alt="uo2hy2's profile picture" />
 </a>
@@ -18,9 +14,21 @@
 <a href="https://github.com/jeongeonK">
     <img src="https://github.com/jeongeonK.png" width="100" alt="jeongeonK's profile picture" />
 </a>
+
+<a href="https://github.com/uowllnh">
+    <img src="https://github.com/uowllnh.png" width="100" alt="uowllnh's profile picture" />
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+---
   </p>
-<br>
-<br>
+
+# 📢 스터디 규칙
+
 <table>
     <tr>
       <td><b>진행 기간</td>
@@ -49,26 +57,46 @@
 </p></td>
     </tr>
   </table>
- 
-<br>
-<br>
+  <br>
 
-<h3> 📢 스터디 규칙 </h3>
+- 돌아가면서 선정된 문제로 [ISSUE](https://github.com/uowllnh/coding_study/issues)에 등록.
+- 1문제당 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) , 
+  ![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 풀이 1개씩 제출
+- 문제가 미완성이라면, `PR` 후 `merge`하지 않고 열어놓기 ❗️반드시 당일 업로드❗️
 
-- 돌아가면서 선정된 문제로 [ISSUE](https://github.com/uowllnh/coding_study/issues) 등록하기
-- 커리큘럼에 따라 ⭐️`문제 밀리지 않기`⭐️
-- 1문제 당 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> ,
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 풀이 1개씩 제출
-- `스터디 전날` 일주일 동안 풀었던 문제 중 투표로 `어려웠던 4문제 선정 후`, `스터디 당일 각자 풀이 공유`
-- 매주 순서에 따라 `문제 1개씩` 선정하여 `실시간 문제 풀이 진행`
+---
+
+## ⭐️ 문제 밀리지 않기
+
+- 스터디 **당일 오후 12시** 기준 업로드 완료
+- 미제출 1문제당 **2천원 벌금**
+
+---
+
+## 📅 일정
+
+- ### **스터디 전날**<br>
+  &nbsp;일주일 동안 풀었던 문제 중 투표로 어려웠던 3문제 선정
+- ### **스터디 당일**
+
+    |    **1H**    |    **30M**     |    **30M**     |
+    |--------------|----------------|----------------|
+    |투표한 3문제 리뷰 |실시간 문제 풀이 진행|실시간 문제 리뷰 진행|
+
+---
+
+## 👥 요일별 ISSUE 등록
+
+| 요일         | 멤버                                  |
+|--------------|-----------------------------------------|
+| **일 / 월**  | [hayeon](https://github.com/uo2hy2)     |
+| **화 / 수**  | [hyunjune](https://github.com/hun2ch98) |
+| **금 / 토**  | [jeoeo](https://github.com/jeongeonK)   |
 
 
-<br>
+---
 
-<br>
-
-
-<h3> 🌈 Convention Rule </h3>
+# 🌈 Convention Rule
 
 <b> Issue </b> | `[플랫폼] 문제이름`
 <br>ex) [Programmers - 고득점 Kit] 포켓몬
@@ -81,72 +109,83 @@
 <br>ex) Update README.md
 
 ---
-<h3> 📝커리큘럼 </h3>
+# 📝 커리큘럼
 
-### Warming Up
+### 알고리즘 기초
 
-- 백준 문제 브론즈 ①,② ~실버 ⑤ 문제 중 정답률 60% 미만으로 선정
-<br>
-<body>
-<table style = "table-layout: auto; width: 50%; table-layout: fixed;">
-    <tr>
-      <th align="center" valign="middle">금 / 토</th>
-      <th align="center" valign="middle">일 / 월</th>
-      <th align="center" valign="middle">화 / 수</th>
-    </tr>
-  <tr>
-      <td align="center" valign="middle">브론즈 ②</td>
-      <td align="center" valign="middle">브론즈 ①</td>
-      <td align="center" valign="middle">실버 ⑤</td>
-    </tr>
-  </table>
-</body>
+|   날짜       |              문제               |        이슈         |
+|:------------:|:-------------------------------:|:-------------------:|
+|   **Day1**   | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | 하연 |
+|   **Day2**   | [괄호](https://www.acmicpc.net/problem/9012)        | 하연 |
+|   **Day3**   | [스택 수열](https://www.acmicpc.net/problem/1874)   | 현준 |
+|   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | 현준 |
+|   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | 정언 |
+|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | 하연 |
+|   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | 하연 |
+|   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | 현준 |
+|   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | 현준 |
+|   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | 정언 |
+|   **Day12**  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day13**  | [후위 표기식](https://www.acmicpc.net/problem/1918) | 하연 |
+|   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 하연 |
+|   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | 현준 |
+|   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | 현준 |
+|   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 정언 |
+|   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | 하연 |
+|   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | 하연 |
+|   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | 현준 |
+|   **Day22**  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 현준 |
+|   **Day23**  | [최소공배수](https://www.acmicpc.net/problem/1934)  | 정언 |
+|   **Day24**  | [소수 찾기](https://www.acmicpc.net/problem/1978)   | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day25**  | [소수 구하기](https://www.acmicpc.net/problem/1929) | 하연 |
+|   **Day26**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 하연 |
+|   **Day27**  | [팩토리얼](https://www.acmicpc.net/problem/10872)   | 현준 |
+|   **Day28**  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | 현준 |
+|   **Day29**  | [조합 0의 개수](https://www.acmicpc.net/problem/2004) | 정언 |
+|   **Day30**  | [GCD 합](https://www.acmicpc.net/problem/9613)      | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | 하연 |
+|   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | 하연 |
+|   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | 현준 |
+|   **Day34**  | [-2진수](https://www.acmicpc.net/problem/2089)      | 현준 |
+|   **Day35**  | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 정언 |
+|   **Day36**  | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day37**  | [진법 변환](https://www.acmicpc.net/problem/2745)   | 하연 |
+|   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | 하연 |
+|   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | 현준 |
+|   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  | 현준 |
+|   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 정언 |
+|   **Day42**  | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day43**  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 하연 |
+|   **Day44**  | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 하연 |
+|   **Day45**  | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | 현준 |
+|   **Day46**  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | 현준 |
+|   **Day47**  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | 정언 |
+|   **Day48**  | [이친수](https://www.acmicpc.net/problem/2193)      | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day49**  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 하연 |
+|   **Day50**  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | 하연 |
+|   **Day51**  | [연속합](https://www.acmicpc.net/problem/1912)      | 현준 |
+|   **Day52**  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | 현준 |
+|   **Day53**  | [합분해](https://www.acmicpc.net/problem/2225)      | 정언 |
+|   **Day54**  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
+|   **Day55**  | [RGB거리](https://www.acmicpc.net/problem/1149)     | 하연 |
+|   **Day56**  | [동물원](https://www.acmicpc.net/problem/1309)      | 하연 |
+|   **Day57**  | [오르막 수](https://www.acmicpc.net/problem/11057)  | 현준 |
+|   **Day58**  | [스티커](https://www.acmicpc.net/problem/9465)      | 현준 |
 
-<br>
 
 
-  
-<body>
-    <table>
-        <thead>
-            <tr>
-                <th align="center" valign="middle">DAY</th>
-                <th align="center" valign="middle">이름</th>
-                <th align="center" valign="middle">이슈 번호</th>
-            </tr>
-        </thead>
-        <tbody align="center" valign="middle">
-             <tr><td>Day1</td><td><a href="https://www.acmicpc.net/problem/21918" target="_blank">전구<br> <a href="https://www.acmicpc.net/problem/2309" target="_blank">일곱 난쟁이</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/1">#01
- <br> <a href="https://github.com/uowllnh/coding_study/issues/2">#02</a></a></td></tr>
-            <tr><td>Day2</td><td><a href="https://www.acmicpc.net/problem/1100" target="_blank">하얀 칸<br><a href="https://www.acmicpc.net/problem/1173" target="_blank"> 운동 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/3">#03
- <br> <a href="https://github.com/uowllnh/coding_study/issues/4">#04</a></a></td></tr>
-            <tr><td>Day3</td><td><a href="https://www.acmicpc.net/problem/1333" target="_blank"> 부재중 전화 <br><a href="https://www.acmicpc.net/problem/2775" target="_blank"> 부녀회장이 될테야 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/5">#05
- <br> <a href="https://github.com/uowllnh/coding_study/issues/6">#06</a></a></td></tr>
-            <tr><td>Day4</td><td><a href="https://www.acmicpc.net/problem/2896" target="_blank"> 무알콜 칵테일 <br><a href="https://www.acmicpc.net/problem/2999" target="_blank"> 비밀 이메일 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/8">#08
- <br> <a href="https://github.com/uowllnh/coding_study/issues/9">#09</a></a></td></tr>
-            <tr><td>Day5</td><td><a href="https://www.acmicpc.net/problem/1010" target="_blank"> 다리 놓기<br><a href="https://www.acmicpc.net/problem/1996" target="_blank"> 지뢰 찾기 </a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/10">#10
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/11">#11</a></a></td></tr>
-            <tr><td>Day6</td><td><a href="https://www.acmicpc.net/problem/2097" target="_blank"> 조약돌<br><a href="https://www.acmicpc.net/problem/2508" target="_blank"> 사탕 박사 고창영</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/13">#13
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/14">#14</a></a></td></tr>
-            <tr><td>Day7</td><td><a href="https://www.acmicpc.net/problem/1673" target="_blank"> 치킨 쿠폰<br><a href="https://www.acmicpc.net/problem/2386" target="_blank"> 도비의 영어공부</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/48">#48
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/49">#49</a></a></td></tr>
-            <tr><td>Day8</td><td><a href="https://www.acmicpc.net/problem/3595" target="_blank"> 맥주 냉장고<br><a href="https://www.acmicpc.net/problem/5622" target="_blank"> 다이얼</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/60">#60
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/61">#61</a></a></td></tr>
-            <tr><td>Day9</td><td><a href="https://www.acmicpc.net/problem/9229" target="_blank"> 단어 사다리<br><a href="https://www.acmicpc.net/problem/10041" target="_blank"> 관광</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/63">#63
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/64">#64</a></a></td></tr>
-            <tr><td>Day10</td><td><a href="https://www.acmicpc.net/problem/16968" target="_blank"> 차량 번호판1<br><a href="https://www.acmicpc.net/problem/17176" target="_blank"> 암호 해독기</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/67">#67
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/68">#68</a></a></td></tr>
-            <tr><td>Day11</td><td><a href="https://www.acmicpc.net/problem/1316" target="_blank"> 그룹 단어 체커<br><a href="https://www.acmicpc.net/problem/1268" target="_blank"> 임시 반장 정하기</a></a></td><td><a href="https://github.com/uowllnh/coding_study/issues/74">#74
-  <br> <a href="https://github.com/uowllnh/coding_study/issues/75">#75</a></a></td></tr>
-            <tr><td>Day12</td><td><a href="https://www.acmicpc.net/problem/2891" target="_blank"> 카약과 강풍<br><a href="https://www.acmicpc.net/problem/2635" target="_blank"> 수 이어가기</td><td>현준</td></tr>
-        </tbody>
-    </table>
-</body>
-</html>
 
-<br>
-
-<br>
 
 ---
 <h3> 📂 Directory </h3>
