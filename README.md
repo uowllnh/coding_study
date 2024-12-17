@@ -117,7 +117,7 @@
 |   날짜       |              문제               |        이슈         |
 |:------------:|:-------------------------------:|:-------------------:|
 |   **Day1**   | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | [#103](https://github.com/uowllnh/coding_study/issues/103) |
-|   **Day2**   | [괄호](https://www.acmicpc.net/problem/9012)        | 하연 |
+|   **Day2**   | [괄호](https://www.acmicpc.net/problem/9012)        | [#107](https://github.com/uowllnh/coding_study/issues/107) |
 |   **Day3**   | [스택 수열](https://www.acmicpc.net/problem/1874)   | 현준 |
 |   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | 현준 |
 |   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | 정언 |
