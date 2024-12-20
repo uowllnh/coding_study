@@ -120,8 +120,8 @@
 |   **Day2**   | [괄호](https://www.acmicpc.net/problem/9012)        | [#107](https://github.com/uowllnh/coding_study/issues/107) |
 |   **Day3**   | [스택 수열](https://www.acmicpc.net/problem/1874)   | [#109](https://github.com/uowllnh/coding_study/issues/109) |
 |              |        **🔎 REVIEW DAY**        |                   | 
-|   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | 정언 |
-|   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | 정언 |
+|   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | [#139](https://github.com/uowllnh/coding_study/issues/139) |
+|   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | [#140](https://github.com/uowllnh/coding_study/issues/140) |
 |   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | 하연 |
 |   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | 하연 |
 |   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | 현준 |
