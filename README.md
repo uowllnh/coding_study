@@ -122,8 +122,8 @@
 |              |        **🔎 REVIEW DAY**        |                   | 
 |   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | [#139](https://github.com/uowllnh/coding_study/issues/139) |
 |   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | [#140](https://github.com/uowllnh/coding_study/issues/140) |
-|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | 하연 |
-|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | 하연 |
+|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#142](https://www.acmicpc.net/problem/1158) |
+|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | [#143](https://www.acmicpc.net/problem/10866) |
 |   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | 현준 |
 |   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | 현준 |
 |              |        **🔎 REVIEW DAY**        |                   | 
