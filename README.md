@@ -127,8 +127,8 @@
 |   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [#145](https://www.acmicpc.net/problem/17413) |
 |   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | [#146](https://www.acmicpc.net/problem/10799) |
 |              |        **🔎 REVIEW DAY**        |                   | 
-|   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | 정언 |
-|   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | 정언 |
+|   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | [#151](https://www.acmicpc.net/problem/17298) |
+|   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | [#152](https://www.acmicpc.net/problem/17299) |
 |   **Day12**  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | 하연 | 
 |   **Day13**  | [후위 표기식](https://www.acmicpc.net/problem/1918) | 하연 |
 |   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 현준 |
