@@ -122,10 +122,10 @@
 |              |        **🔎 REVIEW DAY**        |                   | 
 |   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | [#139](https://github.com/uowllnh/coding_study/issues/139) |
 |   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | [#140](https://github.com/uowllnh/coding_study/issues/140) |
-|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#142](https://www.acmicpc.net/problem/1158) |
-|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | [#143](https://www.acmicpc.net/problem/10866) |
-|   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [#145](https://www.acmicpc.net/problem/17413) |
-|   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | [#146](https://www.acmicpc.net/problem/10799) |
+|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#142](https://github.com/uowllnh/coding_study/issues/142) |
+|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | [#143](https://github.com/uowllnh/coding_study/issues/143) |
+|   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [#145](https://github.com/uowllnh/coding_study/issues/145) |
+|   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | [#146](https://github.com/uowllnh/coding_study/issues/146) |
 |              |        **🔎 REVIEW DAY**        |                   | 
 |   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | [#151](https://github.com/uowllnh/coding_study/issues/151) |
 |   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | [#152](https://github.com/uowllnh/coding_study/issues/152) |
