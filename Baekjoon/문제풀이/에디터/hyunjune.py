@@ -1,10 +1,10 @@
 import sys
 input = sys.stdin.read
 data = input().strip().split('\n')
-init_string = data[0]
+test_string = data[0]
 commands = data[2:]  
 
-left_stack = list(init_string)
+left_stack = list(test_string)
 right_stack = []
 
 for command in commands:
