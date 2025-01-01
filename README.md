@@ -131,9 +131,8 @@
 |   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | [#152](https://github.com/uowllnh/coding_study/issues/152) |
 |   **Day12**  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | [#196](https://github.com/uowllnh/coding_study/issues/196)  | 
 |   **Day13**  | [후위 표기식](https://www.acmicpc.net/problem/1918) | [#197](https://github.com/uowllnh/coding_study/issues/197)  |
-|   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [#199] 
-(https://github.com/uowllnh/coding_study/issues/199)|
-|   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | 현준 |
+|   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [#199](https://github.com/uowllnh/coding_study/issues/199)|
+|   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |[#202](https://github.com/uowllnh/coding_study/issues/202)|
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | 정언 |
 |   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 정언 |
