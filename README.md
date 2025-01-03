@@ -134,8 +134,8 @@
 |   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [#199](https://github.com/uowllnh/coding_study/issues/199)|
 |   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |[#202](https://github.com/uowllnh/coding_study/issues/202)|
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | 정언 |
-|   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 정언 |
+|   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | [#204](https://github.com/uowllnh/coding_study/issues/204) |
+|   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [#205](https://github.com/uowllnh/coding_study/issues/205) |
 |   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | 하연 |
 |   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | 하연 |
 |   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | 현준 |
