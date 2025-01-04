@@ -1,7 +1,6 @@
 import sys
 
-input = sys.stdin.read
-data = input.split()
+data = sys.stdin.read().split()
 N = int(data[0])
 A = list(map(int,data[1:]))
 
