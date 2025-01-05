@@ -69,7 +69,7 @@
 ## ⭐️ 문제 밀리지 않기
 
 - 스터디 **당일 오후 12시** 기준 업로드 완료
-- 미제출 1문제당 **2천원 벌금**
+- 미제출 1문제당 **1500원 벌금**
 
 ---
 
@@ -122,22 +122,22 @@
 |              |        **🔎 REVIEW DAY**        |                   | 
 |   **Day4**   | [에디터](https://www.acmicpc.net/problem/1406)      | [#139](https://github.com/uowllnh/coding_study/issues/139) |
 |   **Day5**   | [큐](https://www.acmicpc.net/problem/10845)         | [#140](https://github.com/uowllnh/coding_study/issues/140) |
-|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#142](https://www.acmicpc.net/problem/1158) |
-|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | [#143](https://www.acmicpc.net/problem/10866) |
-|   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [#145](https://www.acmicpc.net/problem/17413) |
-|   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | [#146](https://www.acmicpc.net/problem/10799) |
+|   **Day6**   | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#142](https://github.com/uowllnh/coding_study/issues/142) |
+|   **Day7**   | [덱](https://www.acmicpc.net/problem/10866)         | [#143](https://github.com/uowllnh/coding_study/issues/143) |
+|   **Day8**   | [단어 뒤집기2](https://www.acmicpc.net/problem/17413) | [#145](https://github.com/uowllnh/coding_study/issues/145) |
+|   **Day9**   | [쇠막대기](https://www.acmicpc.net/problem/10799)   | [#146](https://github.com/uowllnh/coding_study/issues/146) |
 |              |        **🔎 REVIEW DAY**        |                   | 
-|   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | 정언 |
-|   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | 정언 |
-|   **Day12**  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | 하연 | 
-|   **Day13**  | [후위 표기식](https://www.acmicpc.net/problem/1918) | 하연 |
-|   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 현준 |
-|   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | 현준 |
+|   **Day10**  | [오큰수](https://www.acmicpc.net/problem/17298)     | [#151](https://github.com/uowllnh/coding_study/issues/151) |
+|   **Day11**  | [오등큰수](https://www.acmicpc.net/problem/17299)   | [#152](https://github.com/uowllnh/coding_study/issues/152) |
+|   **Day12**  | [후위 표기식2](https://www.acmicpc.net/problem/1935) | [#196](https://github.com/uowllnh/coding_study/issues/196)  | 
+|   **Day13**  | [후위 표기식](https://www.acmicpc.net/problem/1918) | [#197](https://github.com/uowllnh/coding_study/issues/197)  |
+|   **Day14**  | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [#199](https://github.com/uowllnh/coding_study/issues/199)|
+|   **Day15**  | [알파벳 찾기](https://www.acmicpc.net/problem/10809) |[#202](https://github.com/uowllnh/coding_study/issues/202)|
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | 정언 |
-|   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 정언 |
-|   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | 하연 |
-|   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | 하연 |
+|   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | [#204](https://github.com/uowllnh/coding_study/issues/204) |
+|   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [#205](https://github.com/uowllnh/coding_study/issues/205) |
+|   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | [#246](https://github.com/uowllnh/coding_study/issues/246) |
+|   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | [#247](https://github.com/uowllnh/coding_study/issues/247) |
 |   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | 현준 |
 |   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | 현준 |
 |              |        **🔎 REVIEW DAY**        |                   |  
