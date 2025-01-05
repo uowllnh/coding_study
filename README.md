@@ -136,8 +136,8 @@
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day16**  | [문자열 분석](https://www.acmicpc.net/problem/10820) | [#204](https://github.com/uowllnh/coding_study/issues/204) |
 |   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [#205](https://github.com/uowllnh/coding_study/issues/205) |
-|   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | 하연 |
-|   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | 하연 |
+|   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | [#246](https://github.com/uowllnh/coding_study/issues/246) |
+|   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | [#247](https://github.com/uowllnh/coding_study/issues/247) |
 |   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | 현준 |
 |   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | 현준 |
 |              |        **🔎 REVIEW DAY**        |                   |  
