@@ -138,8 +138,8 @@
 |   **Day17**  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [#205](https://github.com/uowllnh/coding_study/issues/205) |
 |   **Day18**  | [ROT13](https://www.acmicpc.net/problem/11655)      | [#246](https://github.com/uowllnh/coding_study/issues/246) |
 |   **Day19**  | [네 수](https://www.acmicpc.net/problem/10824)      | [#247](https://github.com/uowllnh/coding_study/issues/247) |
-|   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | 현준 |
-|   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | 현준 |
+|   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | [#249](https://github.com/uowllnh/coding_study/issues/249) |
+|   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | [#250](https://github.com/uowllnh/coding_study/issues/250) |
 |              |        **🔎 REVIEW DAY**        |                   |  
 |   **Day22**  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 정언 |
 |   **Day23**  | [최소공배수](https://www.acmicpc.net/problem/1934)  | 정언 |
