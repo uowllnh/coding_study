@@ -1,4 +1,4 @@
-package coding_study.Baekjoon.문제풀이.오등큰수;
+package Baekjoon.문제풀이.오등큰수;
 
 import java.io.*;
 import java.util.*;

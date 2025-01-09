@@ -1,4 +1,4 @@
-package coding_study.Baekjoon.문제풀이.쇠막대기;
+package Baekjoon.문제풀이.쇠막대기;
 
 import java.util.*;
 
