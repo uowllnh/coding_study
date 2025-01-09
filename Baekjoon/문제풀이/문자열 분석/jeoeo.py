@@ -1,10 +1,10 @@
-import sys
+N = int(input())
 
-for line in sys.stdin:
-    line = line.rstrip()
-    lowercase = sum(c.islower() for c in line)
-    uppercase = sum(c.isupper() for c in line)
-    digits = sum(c.isdigit() for c in line)
+for _ in range(N):
+    line = input().rstrip()
+    lower = sum(c.islower() for c in line)
+    upper = sum(c.isupper() for c in line)
+    digit = sum(c.isdigit() for c in line)
     spaces = line.count(' ')
 
-    print(lowercase, uppercase, digits, spaces)
+    print(lower, upper, digit, spaces)
