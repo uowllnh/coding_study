@@ -142,14 +142,14 @@
 |   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | [#250](https://github.com/uowllnh/coding_study/issues/250) |
 |              |        **🔎 REVIEW DAY**        |                   |  
 |   **Day22**  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [#281](https://github.com/uowllnh/coding_study/issues/281) |
-|   **Day23**  | [최소공배수](https://www.acmicpc.net/problem/1934)  | [#282](https://github.com/uowllnh/coding_study/issues/282) |
-|   **Day24**  | [소수 찾기](https://www.acmicpc.net/problem/1978)   | 하연 |
+|   **Day23**  | [조합 0의 개수](https://www.acmicpc.net/problem/2004)  | [#282](https://github.com/uowllnh/coding_study/issues/282) |
+|   **Day24**  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)  | 하연 |
 |   **Day25**  | [소수 구하기](https://www.acmicpc.net/problem/1929) | 하연 |
-|   **Day26**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 현준 |
+|   **Day26**  | [소수 찾기](https://www.acmicpc.net/problem/1978) | 현준 |
 |   **Day27**  | [팩토리얼](https://www.acmicpc.net/problem/10872)   | 현준 |
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day28**  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | 정언 |
-|   **Day29**  | [조합 0의 개수](https://www.acmicpc.net/problem/2004) | 정언 |
+|   **Day28**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 정언 | 
+|   **Day29**  | [최소공배수](https://www.acmicpc.net/problem/1934) | 정언 | 
 |   **Day30**  | [GCD 합](https://www.acmicpc.net/problem/9613)      | 하연 |
 |   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | 하연 |
 |   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | 현준 |
