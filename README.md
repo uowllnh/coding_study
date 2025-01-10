@@ -141,8 +141,8 @@
 |   **Day20**  | [접미사 배열](https://www.acmicpc.net/problem/11656) | [#249](https://github.com/uowllnh/coding_study/issues/249) |
 |   **Day21**  | [나머지](https://www.acmicpc.net/problem/10430)     | [#250](https://github.com/uowllnh/coding_study/issues/250) |
 |              |        **🔎 REVIEW DAY**        |                   |  
-|   **Day22**  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 정언 |
-|   **Day23**  | [최소공배수](https://www.acmicpc.net/problem/1934)  | 정언 |
+|   **Day22**  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [#281](https://github.com/uowllnh/coding_study/issues/281) |
+|   **Day23**  | [최소공배수](https://www.acmicpc.net/problem/1934)  | [#282](https://github.com/uowllnh/coding_study/issues/282) |
 |   **Day24**  | [소수 찾기](https://www.acmicpc.net/problem/1978)   | 하연 |
 |   **Day25**  | [소수 구하기](https://www.acmicpc.net/problem/1929) | 하연 |
 |   **Day26**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 현준 |
