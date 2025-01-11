@@ -1,7 +1,12 @@
 import sys
 
 for line in sys.stdin:
-  
+
+    line = line.rstrip('\n')
+
+    if not line.strip():
+        continue
+      
     lower, upper, digit, space = 0, 0, 0, 0
     
     for char in line:
