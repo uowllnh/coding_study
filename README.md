@@ -146,7 +146,7 @@
 |   **Day24**  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)  | [#298](https://github.com/uowllnh/coding_study/issues/298) |
 |   **Day25**  | [소수 구하기](https://www.acmicpc.net/problem/1929) | [#299](https://github.com/uowllnh/coding_study/issues/299) |
 |   **Day26**  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [#301](https://github.com/uowllnh/coding_study/issues/301) |
-|   **Day27**  | [팩토리얼](https://www.acmicpc.net/problem/10872)   | 현준 |
+|   **Day27**  | [팩토리얼](https://www.acmicpc.net/problem/10872)   | [#317](https://github.com/uowllnh/coding_study/issues/317) |
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day28**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | 정언 | 
 |   **Day29**  | [최소공배수](https://www.acmicpc.net/problem/1934) | 정언 | 
