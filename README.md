@@ -150,8 +150,8 @@
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day28**  | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [#323](https://github.com/uowllnh/coding_study/issues/323) | 
 |   **Day29**  | [최소공배수](https://www.acmicpc.net/problem/1934) | [#324](https://github.com/uowllnh/coding_study/issues/324) | 
-|   **Day30**  | [GCD 합](https://www.acmicpc.net/problem/9613)      | 하연 |
-|   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | 하연 |
+|   **Day30**  | [GCD 합](https://www.acmicpc.net/problem/9613)      | [#327](https://github.com/uowllnh/coding_study/issues/327) |
+|   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [#328](https://github.com/uowllnh/coding_study/issues/328) |
 |   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | 현준 |
 |   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | 현준 |
 |              |        **🔎 REVIEW DAY**        |                   |
