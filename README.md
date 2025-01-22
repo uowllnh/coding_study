@@ -152,8 +152,8 @@
 |   **Day29**  | [최소공배수](https://www.acmicpc.net/problem/1934) | [#324](https://github.com/uowllnh/coding_study/issues/324) | 
 |   **Day30**  | [GCD 합](https://www.acmicpc.net/problem/9613)      | [#327](https://github.com/uowllnh/coding_study/issues/327) |
 |   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [#328](https://github.com/uowllnh/coding_study/issues/328) |
-|   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | 현준 |
-|   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | 현준 |
+|   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | [#338](https://github.com/uowllnh/coding_study/issues/338) |
+|   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | [#339](https://github.com/uowllnh/coding_study/issues/339) |
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day34**  | [-2진수](https://www.acmicpc.net/problem/2089)      | 정언 |
 |   **Day35**  | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 정언 |
