@@ -1,15 +1,17 @@
-import java.util.Scanner;
+import java.io.*;
+import java.math.BigInteger;
 
 public class jeoeo {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
-        String n = sc.nextLine();
-        
-        int d = Integer.parseInt(n, 2);
-        
-        System.out.println(Integer.toOctalString(d));
-        
-        sc.close();
-    }
+	
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String S = br.readLine();
+		
+		BigInteger N = new BigInteger(S, 2);
+
+		String result = N.toString(8);
+		
+		System.out.println(result);
+	}
+
 }
