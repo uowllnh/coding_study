@@ -155,7 +155,7 @@
 |   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | [#338](https://github.com/uowllnh/coding_study/issues/338) |
 |   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | [#339](https://github.com/uowllnh/coding_study/issues/339) |
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day34**  | [-2진수](https://www.acmicpc.net/problem/2089)      | 정언 |
+|   **Day34**  | [-2진수](https://www.acmicpc.net/problem/2089)      | [#344](https://github.com/uowllnh/coding_study/issues/344) |
 |   **Day35**  | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 정언 |
 |   **Day36**  | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 하연 |
 |   **Day37**  | [진법 변환](https://www.acmicpc.net/problem/2745)   | 하연 |
