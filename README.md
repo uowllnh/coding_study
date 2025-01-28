@@ -154,36 +154,36 @@
 |   **Day31**  | [숨바꼭질 6](https://www.acmicpc.net/problem/17087) | [#328](https://github.com/uowllnh/coding_study/issues/328) |
 |   **Day32**  | [2진수 8진수](https://www.acmicpc.net/problem/1373) | [#338](https://github.com/uowllnh/coding_study/issues/338) |
 |   **Day33**  | [8진수 2진수](https://www.acmicpc.net/problem/1212) | [#339](https://github.com/uowllnh/coding_study/issues/339) |
-|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day34**  | [-2진수](https://www.acmicpc.net/problem/2089)      | [#344](https://github.com/uowllnh/coding_study/issues/344) |
+|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day35**  | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | 정언 |
 |   **Day36**  | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 하연 |
 |   **Day37**  | [진법 변환](https://www.acmicpc.net/problem/2745)   | 하연 |
 |   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | 현준 |
 |   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | 현준 |
-|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 정언 |
 |   **Day42**  | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | 하연 |
 |   **Day43**  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 하연 |
 |   **Day44**  | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 현준 |
 |   **Day45**  | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | 현준 |
-|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day46**  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day47**  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | 정언 |
 |   **Day48**  | [이친수](https://www.acmicpc.net/problem/2193)      | 하연 |
 |   **Day49**  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 하연 |
 |   **Day50**  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | 현준 |
 |   **Day51**  | [연속합](https://www.acmicpc.net/problem/1912)      | 현준 |
-|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day52**  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day53**  | [합분해](https://www.acmicpc.net/problem/2225)      | 정언 |
 |   **Day54**  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | 하연 |
 |   **Day55**  | [RGB거리](https://www.acmicpc.net/problem/1149)     | 하연 |
 |   **Day56**  | [동물원](https://www.acmicpc.net/problem/1309)      | 현준 |
 |   **Day57**  | [오르막 수](https://www.acmicpc.net/problem/11057)  | 현준 |
-|              |        **🔎 REVIEW DAY**        |                   |
 |   **Day58**  | [스티커](https://www.acmicpc.net/problem/9465)      | 정언 |
+|              |        **🔎 REVIEW DAY**        |                   |
 
 
 
