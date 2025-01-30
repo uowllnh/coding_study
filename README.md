@@ -159,8 +159,8 @@
 |   **Day35**  | [골드바흐 파티션](https://www.acmicpc.net/problem/17103) | [#400](https://github.com/uowllnh/coding_study/issues/400) |
 |   **Day36**  | [진법 변환 2](https://www.acmicpc.net/problem/11005) | [#401](https://github.com/uowllnh/coding_study/issues/401) |
 |   **Day37**  | [진법 변환](https://www.acmicpc.net/problem/2745)   | [#402](https://github.com/uowllnh/coding_study/issues/402) |
-|   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | 현준 |
-|   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | 현준 |
+|   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | [#404](https://github.com/uowllnh/coding_study/issues/404) |
+|   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | [#405](https://github.com/uowllnh/coding_study/issues/405) |
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  | 정언 |
 |   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 정언 |
