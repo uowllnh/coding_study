@@ -17,7 +17,7 @@ is_prime = find_primes(MAX_N)
 
 input = sys.stdin.read
 data = input().split()
-test_cases = map(int, data) 
+test_cases = map(int, data[1:]) 
 
 for T in test_cases:
     count = 0
