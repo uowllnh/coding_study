@@ -20,11 +20,9 @@ def goldbach(n, primes):
 LIMIT = 1000000
 primes = sieve(LIMIT)
 
-# 입력을 한 줄씩 받으며 처리
 while True:
-    n = int(input())  # 한 줄씩 입력 받기
+    n = int(input())  
     if n == 0:
-        print("0")  # 0을 입력하면 종료 후 0 출력
         break
     
     result = goldbach(n, primes)
