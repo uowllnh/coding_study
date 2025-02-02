@@ -162,8 +162,8 @@
 |   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | [#404](https://github.com/uowllnh/coding_study/issues/404) |
 |   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | [#405](https://github.com/uowllnh/coding_study/issues/405) |
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  | 정언 |
-|   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 정언 |
+|   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  |[#437](https://github.com/uowllnh/coding_study/issues/437) |
+|   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [#438](https://github.com/uowllnh/coding_study/issues/438) |
 |   **Day42**  | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | 하연 |
 |   **Day43**  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 하연 |
 |   **Day44**  | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 현준 |
