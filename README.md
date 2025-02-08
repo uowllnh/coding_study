@@ -162,15 +162,15 @@
 |   **Day38**  | [Base Conversion](https://www.acmicpc.net/problem/11576) | [#404](https://github.com/uowllnh/coding_study/issues/404) |
 |   **Day39**  | [소인수분해](https://www.acmicpc.net/problem/11653) | [#405](https://github.com/uowllnh/coding_study/issues/405) |
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  | 정언 |
-|   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 정언 |
-|   **Day42**  | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | 하연 |
-|   **Day43**  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 하연 |
-|   **Day44**  | [카드 구매하기](https://www.acmicpc.net/problem/11052) | 현준 |
-|   **Day45**  | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | 현준 |
+|   **Day40**  | [1로 만들기](https://www.acmicpc.net/problem/1463)  |[#437](https://github.com/uowllnh/coding_study/issues/437) |
+|   **Day41**  | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [#438](https://github.com/uowllnh/coding_study/issues/438) |
+|   **Day42**  | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | [#440](https://github.com/uowllnh/coding_study/issues/440) |
+|   **Day43**  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [#441](https://github.com/uowllnh/coding_study/issues/441) |
+|   **Day44**  | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [#443](https://github.com/uowllnh/coding_study/issues/443)
+|   **Day45**  | [카드 구매하기 2](https://www.acmicpc.net/problem/16194) | [#444](https://github.com/uowllnh/coding_study/issues/444)
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day46**  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | 정언 |
-|   **Day47**  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | 정언 |
+|   **Day46**  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [#450](https://github.com/uowllnh/coding_study/issues/450) |
+|   **Day47**  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [#451](https://github.com/uowllnh/coding_study/issues/451) |
 |   **Day48**  | [이친수](https://www.acmicpc.net/problem/2193)      | 하연 |
 |   **Day49**  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 하연 |
 |   **Day50**  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | 현준 |
