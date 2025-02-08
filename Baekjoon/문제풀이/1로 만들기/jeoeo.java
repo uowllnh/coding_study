@@ -6,7 +6,7 @@ public class jeoeo {
         int N = sc.nextInt();
         sc.close();
         
-        int[] dp = new int[N + 1];
+        int[] a = new int[N + 1];
         
         for (int i = 2; i <= N; i++) {
             a[i] = a[i - 1] + 1;
