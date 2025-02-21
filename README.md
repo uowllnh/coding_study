@@ -178,11 +178,11 @@
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day52**  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | [#499](https://github.com/uowllnh/coding_study/issues/499) |
 |   **Day53**  | [합분해](https://www.acmicpc.net/problem/2225)      | [#500](https://github.com/uowllnh/coding_study/issues/500) |
-|   **Day54**  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | 하연 |
-|   **Day55**  | [RGB거리](https://www.acmicpc.net/problem/1149)     | 하연 |
-|   **Day56**  | [동물원](https://www.acmicpc.net/problem/1309)      | 현준 |
-|   **Day57**  | [오르막 수](https://www.acmicpc.net/problem/11057)  | 현준 |
-|   **Day58**  | [스티커](https://www.acmicpc.net/problem/9465)      | 정언 |
+|   **Day54**  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [#530](https://github.com/uowllnh/coding_study/issues/530) |
+|   **Day55**  | [RGB거리](https://www.acmicpc.net/problem/1149)     | [#531](https://github.com/uowllnh/coding_study/issues/531) |
+|   **Day56**  | [동물원](https://www.acmicpc.net/problem/1309)      | [#532](https://github.com/uowllnh/coding_study/issues/532) |
+|   **Day57**  | [오르막 수](https://www.acmicpc.net/problem/11057)  | [#533](https://github.com/uowllnh/coding_study/issues/533) |
+|   **Day58**  | [스티커](https://www.acmicpc.net/problem/9465)      | [#534](https://github.com/uowllnh/coding_study/issues/534) |
 |              |        **🔎 REVIEW DAY**        |                   |
 
 
