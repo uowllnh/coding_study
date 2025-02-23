@@ -171,13 +171,13 @@
 |              |        **🔎 REVIEW DAY**        |                   |
 |   **Day46**  | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) | [#450](https://github.com/uowllnh/coding_study/issues/450) |
 |   **Day47**  | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [#451](https://github.com/uowllnh/coding_study/issues/451) |
-|   **Day48**  | [이친수](https://www.acmicpc.net/problem/2193)      | 하연 |
-|   **Day49**  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 하연 |
-|   **Day50**  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | 현준 |
-|   **Day51**  | [연속합](https://www.acmicpc.net/problem/1912)      | 현준 |
+|   **Day48**  | [이친수](https://www.acmicpc.net/problem/2193)      | [#489](https://github.com/uowllnh/coding_study/issues/489) |
+|   **Day49**  | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [#490](https://github.com/uowllnh/coding_study/issues/490) |
+|   **Day50**  | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [#491](https://github.com/uowllnh/coding_study/issues/491) |
+|   **Day51**  | [연속합](https://www.acmicpc.net/problem/1912)       | [#493](https://github.com/uowllnh/coding_study/issues/493) |
 |              |        **🔎 REVIEW DAY**        |                   |
-|   **Day52**  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | 정언 |
-|   **Day53**  | [합분해](https://www.acmicpc.net/problem/2225)      | 정언 |
+|   **Day52**  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | [#499](https://github.com/uowllnh/coding_study/issues/499) |
+|   **Day53**  | [합분해](https://www.acmicpc.net/problem/2225)      | [#500](https://github.com/uowllnh/coding_study/issues/500) |
 |   **Day54**  | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | 하연 |
 |   **Day55**  | [RGB거리](https://www.acmicpc.net/problem/1149)     | 하연 |
 |   **Day56**  | [동물원](https://www.acmicpc.net/problem/1309)      | 현준 |
